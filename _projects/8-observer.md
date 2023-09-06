@@ -1,7 +1,7 @@
 ---
 title: 'Scope watcher tool for Bug Bounty platforms'
 date: 2023-09-6
-permalink: /posts/8/
+permalink: /projects/8/
 tags:
   - tools
 ---

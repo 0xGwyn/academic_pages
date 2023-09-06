@@ -1,7 +1,7 @@
 ---
 title: 'A data-driven analysis of the COVID-19 impact on different countries using Python'
 date: 2023-09-6
-permalink: /posts/11/
+permalink: /projects/11/
 tags:
   - tools
   - presentations

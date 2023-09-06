@@ -1,7 +1,7 @@
 ---
 title: 'A complex WAN simulation using Packet Tracer'
 date: 2023-09-6
-permalink: /posts/10/
+permalink: /projects/10/
 tags:
   - tools
   - presentations

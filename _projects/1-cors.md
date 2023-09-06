@@ -1,7 +1,7 @@
 ---
 title: 'Cross Origin Resource Sharing misconfiguration fuzzer'
 date: 2023-09-6
-permalink: /posts/1/
+permalink: /projects/1-cors/
 tags:
   - tools
 ---

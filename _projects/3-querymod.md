@@ -1,7 +1,7 @@
 ---
 title: 'Dynamic URL Query Modifier for Discovering Reflection and Abnormal Behavior'
 date: 2023-09-6
-permalink: /posts/3/
+permalink: /projects/3/
 tags:
   - tools
 ---

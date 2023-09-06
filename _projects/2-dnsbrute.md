@@ -1,7 +1,7 @@
 ---
 title: 'A custom DNS brute forcing flow'
 date: 2023-09-6
-permalink: /posts/2/
+permalink: /projects/2/
 tags:
   - tools
   - presentations

@@ -1,7 +1,7 @@
 ---
 title: 'a Real-time motion detection system using Raspberry Pi and a camera module'
 date: 2023-09-6
-permalink: /posts/5/
+permalink: /projects/5/
 tags:
   - tools
   - presentations

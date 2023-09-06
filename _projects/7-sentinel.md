@@ -1,7 +1,7 @@
 ---
 title: 'Subdomain Data Management and Monitoring REST API'
 date: 2023-09-6
-permalink: /posts/7/
+permalink: /projects/7/
 tags:
   - tools
 ---

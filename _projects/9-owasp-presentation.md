@@ -1,7 +1,7 @@
 ---
 title: 'A concise presentation on the OWASP Top 10'
 date: 2023-09-6
-permalink: /posts/9/
+permalink: /projects/9/
 tags:
   - presentations
 ---

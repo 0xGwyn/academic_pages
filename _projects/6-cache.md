@@ -1,7 +1,7 @@
 ---
 title: 'A visual simulation of cache mapping types in Python using the Tkinter library'
 date: 2023-09-6
-permalink: /posts/6/
+permalink: /projects/6/
 tags:
   - tools
 ---

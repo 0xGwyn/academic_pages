@@ -1,7 +1,7 @@
 ---
 title: 'Robot.txt Content Retrieval Tool utilizing the Internet Archive'
 date: 2023-09-6
-permalink: /posts/4/
+permalink: /projects/4/
 tags:
   - tools
   - presentations

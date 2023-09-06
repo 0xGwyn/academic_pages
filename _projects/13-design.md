@@ -1,7 +1,7 @@
 ---
 title: 'Diagramming system architecture, ERDs, flowcharts, and use case diagrams for an Inventory Management Project using Visual Paradigm'
 date: 2023-09-6
-permalink: /posts/13/
+permalink: /projects/13/
 tags:
   - presentations
 ---

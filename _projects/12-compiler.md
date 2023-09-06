@@ -1,7 +1,7 @@
 ---
 title: 'A custom lexical analyzer and parser using the PLY library '
 date: 2023-09-6
-permalink: /posts/12/
+permalink: /projects/12/
 tags:
   - tools
   - presentations
