@@ -150,6 +150,15 @@ exclude:
   - _portfolio
   - _talks
   - _publications
+  - _pages/sitemap
+  - _pages/portfolio
+  - _pages/talkmap
+  - _pages/page-archive
+  - _pages/publications
+  - _pages/non-menu-page
+  - _pages/markdown
+  - _pages/collection-archive
+  - _pages/archive-layout-with-content
 keep_files:
   - .git
   - .svn
