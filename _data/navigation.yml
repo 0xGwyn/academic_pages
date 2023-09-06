@@ -12,7 +12,7 @@ main:
   #   url: /portfolio/
         
   - title: "Projects and Presentations"
-    url: /projects/
+    url: /year-archive/
     
   - title: "CV"
     # url: /cv/

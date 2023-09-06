@@ -8,7 +8,7 @@ tags:
 
 This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
 
-Dynamic URL Query Modifier for Discovering Reflection and Abnormal Behavior
+Summary
 ======
 One of my favorite web application vulnerabilities is XSS (Cross-Site Scripting), often referred to as a low hanging fruit bug. Among the types of XSS vulnerabilities, there is the reflected type, where the value of a parameter in the URL's query part or sometimes in the body of a POST request is reflected on the page. 
 

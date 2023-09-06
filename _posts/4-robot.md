@@ -9,7 +9,7 @@ tags:
 
 This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
 
-Robot.txt Content Retrieval Tool utilizing the Internet Archive
+Summary
 ======
 Robots.txt is a text file utilized by webmasters to guide web crawlers in their interactions with a website. It resides in the website's root directory and provides directives to specify which pages and directories should be crawled or excluded. By analyzing the paths mentioned in the robots.txt file, we can gain a deeper understanding of a web application and improve its mapping. This knowledge is valuable for tasks such as security assessments or vulnerability scanning.
 

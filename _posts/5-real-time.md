@@ -9,7 +9,7 @@ tags:
 
 This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
 
-A real-time motion detection system using Raspberry Pi and a camera module
+Summary
 ======
 During an embedded and real-time systems course, my friend and I chose to work on a motion detection project. Our aim was to develop a real-time system that could detect motion and record it for a specific duration after the motion event occurred. To accomplish this, we utilized the Linux kernel source from the Raspberry Pi repository on GitHub. We applied the PREEMPT_RT patch to the kernel and compiled it directly on a Raspberry Pi 4 device after configuring it. 
 

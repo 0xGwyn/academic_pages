@@ -8,7 +8,7 @@ tags:
 
 This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
 
-Scope watcher tool for Bug Bounty platforms
+Summary
 ======
 Many bug bounty platform crawlers are open source, and their creators often store newly crawled data as JSON files on platforms like GitHub. They use the action feature to periodically update this data with new information. To enhance efficiency, we can focus on identifying newly added assets within the scope of companies' bug bounty programs. Our tool sends requests to these repositories, gathers data on companies and their assets, checks for new in-scope assets, and notifies the user on Discord so they can promptly work on these fresh assets. 
 
