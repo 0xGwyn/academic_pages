@@ -6,18 +6,20 @@ main:
   # - title: "Talks"
   #   url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+     
     
   # - title: "Portfolio"
   #   url: /portfolio/
         
   - title: "Projects and Presentations"
-    url: /year-archive/
+    url: /projects/
     
   - title: "CV"
     # url: /cv/
     url: /files/resume.pdf
+
+  - title: "Teaching"
+    url: /teaching/ 
     
   # - title: "Guide"
   #   url: /markdown/

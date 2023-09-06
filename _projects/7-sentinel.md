@@ -1,0 +1,17 @@
+---
+title: 'Subdomain Data Management and Monitoring REST API'
+date: 2023-09-6
+permalink: /posts/7/
+tags:
+  - tools
+---
+
+This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
+
+Subdomain Data Management and Monitoring REST API
+======
+Bug hunting heavily relies on time management. To increase the chances of discovering valid bugs, bug hunters should prioritize checking for fresh assets and changes in the company's assets they're investigating. During the initial reconnaissance phase, hunters gather as many subdomains as possible from the target company. To facilitate efficient data management and monitoring, this REST API is developed to retrieve these assets and track various aspects such as newly resolved subdomains, changes in HTTP status codes, IP ranges, titles, and technologies. Notifications are generated to alert the user of these changes. To optimize this process, I am trying to integrated the most suitable tools from ProjectDiscovery into my application's workflow.
+
+While the REST API is half complete, I am currently working on incorporating ProjectDiscovery's tools as modules within my project, enabling better customization and eliminating the need for executing them as binary commands in my source code. This ongoing project aims to maintain a comprehensive asset database with corresponding properties, enabling effective tracking of changes and prioritizing vulnerability assessments on the freshest targets.
+
+Github link: https://github.com/0xGwyn/Sentinel
