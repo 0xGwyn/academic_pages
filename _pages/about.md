@@ -1,11 +1,10 @@
 ---
 permalink: /
-title: "Hi, my name is Ali Dindamal and this is my academic website"
+title: "Hi, I'm Ali"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-This has to be changed 
+https://github.com/0xGwyn/0xGwyn.github.io/assets/60668579/c2202fcc-46b8-451e-a88a-feb7345afd91
