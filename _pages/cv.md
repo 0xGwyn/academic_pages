@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-{% capture written_label %}'None'{% endcapture %}
 
 If the embedded PDF below does not load, you can <u><a href="https://0xGwyn.github.io/files/resume.pdf">download it here.</a></u>
 <br/>
