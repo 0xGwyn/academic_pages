@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here](https://0xGwyn.github.io/files/CV_AliDindamal.pdf)
+If the embedded PDF below does not load, you can <u><a href="https://0xGwyn.github.io/files/resume.pdf">download it here.</a></u>
+<br/>
+<embed src="https://0xGwyn.github.io/files/resume.pdf" type="application/pdf" width="100%" />
 
 <!-- Education
 ======
